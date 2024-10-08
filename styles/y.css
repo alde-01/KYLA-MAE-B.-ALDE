@@ -1,0 +1,94 @@
+body{
+    background-image: url(../images/bckgrnd3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    width: 100%;
+}
+#box1{
+    background-color: rgba(142, 245, 163, 0.496);
+    width: 95.5%;
+    height: 25px;
+    padding-left: 30px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: right;
+}
+#box1 a{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+    color: black;
+    padding: 20px;
+}
+#box1 a:hover{
+    text-decoration: none;
+    background-color: rgb(87, 87, 84);
+    border-radius: 30px;
+    padding:10px;
+    color: rgb(91, 246, 184);
+}
+#div1{
+    margin-top: 30px ;
+    margin-right: 100px;
+    margin-left: 80px;
+    border: 5px solid rgb(196, 255, 212);
+}
+#h1-{
+    padding-left: 150px;
+    padding-top: 2px;
+    font-size: 40px;
+    color: aquamarine;
+}
+#hobbies span{
+    font-size: 25px;
+    color: rgb(158, 250, 219);
+    text-shadow: black 1px 2px 1px;
+    padding-left: 60px;
+    padding-right: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#hobbies img{
+    width: 290px;
+    height: 250px;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 1px;
+    padding-bottom: 20px;
+    border-radius: 80px
+}
+#div2{
+    margin-top: 30px ;
+    margin-right: 100px;
+    margin-left: 80px;
+    border: 5px solid rgb(196, 255, 212);
+}
+#h1--{
+    padding-left: 150px;
+    padding-top: 2px;
+    font-size: 40px;
+    color: aquamarine;
+}
+#favorites span{
+    font-size: 25px;
+    color: rgb(158, 250, 219);
+    text-shadow: black 1px 2px 1px;
+    padding-left: 90px;
+    padding-right: 100px;
+    top: -50%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+} 
+#favorites img{
+    width: 290px;
+    height: 250px;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 1px;
+    padding-bottom: 20px;
+    border-radius: 80px
+}
+#hayss{
+    margin: 50px 0px 50px;
+}
